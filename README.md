@@ -11,7 +11,7 @@
 - **Estilo:** Limpio y profesional, pero con un toque dinámico para reflejar movimiento y aventura.
 
 ---
-![Logotipo de Tu Ruta Low Cost](file:///C:/Users/maric/Downloads/Imagenes%20de%20la%20marca/Marca_Low_Cost_2.webp)
+![Logotipo de Tu Ruta Low Cost](https://raw.githubusercontent.com/1113308790/Tu-Ruta-Low-Cost/refs/heads/main/imagen%201.webp)
 
 ## Misión
 **Tu Ruta Low Cost** busca democratizar los viajes en Colombia, conectando personas de todas las edades con los destinos más emblemáticos del país a precios asequibles. En **Tu Ruta Low Cost**, simplificamos la experiencia de viajar, ofreciendo opciones económicas sin sacrificar la calidad, para que cada cliente pueda explorar, disfrutar y crear recuerdos inolvidables.
